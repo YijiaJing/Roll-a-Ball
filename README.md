@@ -1,5 +1,5 @@
 # Roll-a-Ball
-Unity Intro Tutorial game with some modifications.\n
+Unity Intro Tutorial game with some modifications.<br/>
 Use arrow keys to move. Collect all coins to win.
 
 # What's added
